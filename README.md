@@ -42,6 +42,17 @@
 
 ---
 
+# 🚀 Dự án Nghiên cứu khoa học
+
+- 🏆 [CPP Auto Grader](https://github.com/loctran312/cpp-auto-grader)  
+  Công cụ chấm code C++ tự động – **Dự án nghiên cứu khoa học**, hỗ trợ giảng dạy & đánh giá lập trình.  
+  - ✨ Tự động biên dịch & chạy test case  
+  - 📊 Xuất kết quả chấm điểm chi tiết  
+  - 🖥️ Ứng dụng trong đào tạo lập trình C++
+
+
+---
+
 # 📂 Dự án tiêu biểu  
 
 - 🤖 [AI Chatbot](https://github.com/USERNAME/ai-chatbot) – Chatbot đơn giản viết bằng Python  
