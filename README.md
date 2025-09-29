@@ -46,8 +46,8 @@
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loctran312&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loctran312&theme=radical" height="180"/>
 </p>
 
 <p align="center">
