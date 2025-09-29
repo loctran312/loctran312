@@ -76,5 +76,6 @@
 
 <!-- Footer -->
 <p align="center">
-  ![Made with love](https://img.shields.io/badge/Made%20with%20❤️%20by-Yoshi-blue?style=flat-square)
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
+
