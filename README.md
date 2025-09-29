@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Xin%20chào%20mình%20là%20Trần%20Hữu%20Lộc.%20Nickname:%20Yoshi!&fontSize=30&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Xin%20chào,%20mình%20là%20Trần%20Hữu%20Lộc.%20Nickname:%20Yoshi!&fontSize=30&fontAlignY=35&animation=twinkling" />
 
 # 🚀 About Me  
 - 💻 Lập trình viên quan tâm đến **Python, Java, Spring Boot, AI và Web Development**  
