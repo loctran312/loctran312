@@ -5,7 +5,7 @@
 - 💻 Lập trình viên quan tâm đến **Python, Java, Spring Boot, AI và Web Development**  
 - 🌱 Hiện tại mình đang học **AI & Backend Development**  
 - 🎯 Mục tiêu: Trở thành **Fullstack Developer + AI Engineer**  
-- 📫 Liên hệ: [...](mailto:...)  
+- 📫 Liên hệ: [loctranvodanh@gmail.com](mailto:loctranvodanh@gmail.com)  
 
 ---
 
