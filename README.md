@@ -58,7 +58,6 @@
 - 🤖 [AI Chatbot](https://github.com/USERNAME/ai-chatbot) – Chatbot đơn giản viết bằng Python  
 - 🌐 [Spring Boot Website](https://github.com/USERNAME/spring-boot-web) – Website quản lý sinh viên  
 - 💻 [Portfolio React](https://github.com/USERNAME/portfolio-react) – Website cá nhân bằng React  
-[![Research Project](https://img.shields.io/badge/Research-CPP%20Auto%20Grader-blueviolet?style=for-the-badge&logo=cplusplus)](https://github.com/loctran312/cpp-auto-grader)
 
 
 ---
