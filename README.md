@@ -1,11 +1,15 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Xin%20chào,%20mình%20là%20Trần%20Hữu%20Lộc.%20Nickname:%20Yoshi!&fontSize=30&fontAlignY=35&animation=twinkling" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Xin%20chào,%20mình%20là%20Trần%20Hữu%20Lộc.%20Nickname:%20Yoshi!&fontSize=30&fontAlignY=35&animation=twinkling" />
+</p>
 
 # 🚀 About Me  
+<p align="center">
 - 💻 Lập trình viên quan tâm đến **Python, Java, Spring Boot, AI và Web Development**  
 - 🌱 Hiện tại mình đang học **AI & Backend Development**  
 - 🎯 Mục tiêu: Trở thành **Fullstack Developer + AI Engineer**  
 - 📫 Liên hệ: [loctranvodanh@gmail.com](mailto:loctranvodanh@gmail.com)  
+</p>
 
 ---
 
