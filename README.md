@@ -58,18 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=loctran312&show_icons=true&theme=radical#gh-dark-mode-only" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loctran312&theme=radical#gh-dark-mode-only" height="180"/>
 
-  <!-- Light mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=loctran312&show_icons=true&theme=default#gh-light-mode-only" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loctran312&theme=default#gh-light-mode-only" height="180"/>
-</p>
-
 <p align="center">
   <!-- Dark mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loctran312&layout=compact&theme=radical#gh-dark-mode-only" height="180"/>
-
-  <!-- Light mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loctran312&layout=compact&theme=default#gh-light-mode-only" height="180"/>
-</p>
 
 
 ---
