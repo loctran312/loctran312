@@ -34,6 +34,15 @@
 
 ---
 
+# 📂 Dự án tiêu biểu  
+
+- 🤖 [AI Chatbot](https://github.com/USERNAME/ai-chatbot) – Chatbot đơn giản viết bằng Python  
+- 🌐 [Spring Boot Website](https://github.com/USERNAME/spring-boot-web) – Website quản lý sinh viên  
+- 💻 [Portfolio React](https://github.com/USERNAME/portfolio-react) – Website cá nhân bằng React  
+
+
+---
+
 # 📊 GitHub Stats  
 
 <p align="center">
