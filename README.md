@@ -75,4 +75,6 @@
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">
+  ![Made with love](https://img.shields.io/badge/Made%20with%20❤️%20by-Yoshi-blue?style=flat-square)
+</p>
